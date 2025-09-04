@@ -111,7 +111,7 @@ eval (CstInt x) = ValInt x
 
 </details>
 
-Export the `eval` function from `APL.Eval`, and add a test to `APL_Tests.hs`
+Export the `eval` function from `APL.Eval`, and add a test to `Eval_Tests.hs`
 that tests whether your implementation of `CstInt` is correct. You will need to
 extend the `import` statements at the beginning of the module to include at
 least the following:
